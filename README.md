@@ -1,15 +1,24 @@
-# Hi there, I'm Vaishnavi! 👋
+## Hi there, I'm Vaishnavi! 👋
 
 Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, and Python, I aim to combine technical expertise with business acumen to deliver impactful solutions.
+
+
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
 
+## About Me 
 
-## About Me
 
 - 💼 Aspiring Data Analyst
 - 🌱 Currently pursuing the Data Analytics Certification
-- 🎓 Bachelor's in Mechanical Engineering 
+- 🔭 I’m currently working on my side projects
+- 🎓 Bachelor's in Mechanical Engineering
+- 👯 I’m looking to collaborate on your open source projects
+- 😄 Pronouns: She/Her
+
+
+
+
 
 ## Tools and Languages
 
