@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 ## About Me 
 
 
-- 💼 Aspiring Data Analyst
-- 🌱 Currently pursuing the Data Analytics Certification
-- 🔭 I’m currently working on my side projects
+- 💼 Data Analyst
+- 🌱 Successfully completed the Data Analytics Certification
+- 🔭 I’m currently working on my internship projects
 - 🎓 Bachelor's in Mechanical Engineering
 - 👯 I’m looking to collaborate on your open source projects
 - 😄 Pronouns: She/Her
